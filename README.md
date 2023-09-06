@@ -66,17 +66,10 @@ While logistic regression is more robust against ourliers than linear regression
 
 ### Other observations
 
-The predictors 
+ 
 
 ## Feature engineering
 
-
-The predictors are not distributed equally and
-<div align="center">
-  <img src="./output/variables_dist.png" width=500>
-</div>
-
- - Quantile normalisation
 
 
 ## Model building
